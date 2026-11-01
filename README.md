@@ -49,6 +49,8 @@ python src/analyze.py
 
 输出三张图表至 `output/` 目录。
 
+> 📚 零基础？先读 [TUTORIAL.md](TUTORIAL.md)——按 analyze.py 的执行顺序拆解的 7 课跟做手册，覆盖本项目用到的全部 pandas / matplotlib 知识点，每课附动手练习。
+
 ## 项目结构
 
 ```
