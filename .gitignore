@@ -1,0 +1,6 @@
+# 大文件数据集不入库（62.7MB），下载方式见主 README
+data/USvideos.csv
+data/US_category_id.json
+__pycache__/
+*.pyc
+.DS_Store
